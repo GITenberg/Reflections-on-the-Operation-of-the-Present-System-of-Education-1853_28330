@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1615'
     url: http://www.gutenberg.org/2009/agents/1615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28330#Reflections-on-the-Operation-of-the-Present-System-of-Education-1853
 gutenberg_issued: '2009-03-15'
 gutenberg_type: Text
 identifiers:
